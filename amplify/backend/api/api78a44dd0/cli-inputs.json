@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "paths": {
+    "/js": {
+      "name": "/js",
+      "lambdaFunction": "amplifyreactapi6e56f82a",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/go": {
+      "name": "/go",
+      "lambdaFunction": "amplifyreactapi558c2850",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/python": {
+      "name": "/python",
+      "lambdaFunction": "amplifyreactapic57eef78",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

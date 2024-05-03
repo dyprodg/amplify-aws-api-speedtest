@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@types/aws-lambda':
+        specifier: ^8.10.92
+        version: 8.10.137
+
+packages:
+
+  '@types/aws-lambda@8.10.137':
+    resolution: {integrity: sha512-YNFwzVarXAOXkjuFxONyDw1vgRNzyH8AuyN19s0bM+ChSu/bzxb5XPxYFLXoqoM+tvgzwR3k7fXcEOW125yJxg==, tarball: https://registry.npmjs.org/@types/aws-lambda/-/aws-lambda-8.10.137.tgz}
+
+snapshots:
+
+  '@types/aws-lambda@8.10.137': {}
