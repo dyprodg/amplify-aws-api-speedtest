@@ -82,7 +82,7 @@ export default function Home() {
       <h1 className='text-5xl font-bold p-4 text-center'>Serverless API Test</h1>
 
       <h1 className='w-[400px] md:w-[800px] text-center p-4'>
-        This is a test for serverless API's using AWS Lambda. It will count the number of words and letters. Then it will create two sorted arrays, one for words and one for letters. It will also count the number of each letter in the text. There are three different API Routes. Python, Go and Node.js . The execution time will be displayed for each API. If you want to check if the response is the same you can click for more.
+        {`This is a test for serverless API's using AWS Lambda. It will count the number of words and letters. Then it will create two sorted arrays, one for words and one for letters. It will also count the number of each letter in the text. There are three different API Routes. Python, Go and Node.js . The execution time will be displayed for each API. If you want to check if the response is the same you can click for more.`}
       </h1>
 
       <Link href="https://github.com/dyprodg/amplify-aws-api-speedtest">
